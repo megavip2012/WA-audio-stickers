@@ -1,5 +1,12 @@
+# Changelog
+
 ## 0.7.4
-- Language selection updates the current panel without reloading WhatsApp Web.
-- Language preference remains saved between sessions.
-- Removed the donation/support button and associated GitHub funding entry.
-- Rebuilt Chromium package and source distribution.
+
+- Language switching updates the extension panel without reloading WhatsApp Web.
+- The selected language is saved and restored across sessions.
+- Removed the donation button and associated funding link.
+- Updated documentation and Chromium package for Chrome, Edge, and Brave.
+
+## 0.7.3
+
+- Multilingual UI improvements and packaging updates.
