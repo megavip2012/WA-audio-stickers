@@ -4,9 +4,7 @@
 
 <p align="center">Turn a video, image, or GIF into an <b>audio sticker</b> and send it from <b>WhatsApp Web</b>.<br>Everything is processed in your browser; media is not uploaded to any third-party server by this extension.</p>
 
-<p align="center"><a href="https://github.com/megavip2012/WA-audio-stickers/releases/latest"><img src="docs/img/boton-descargar.png" width="352" alt="Download"></a></p>
-
-<p align="center"><a href="#installation"><img src="docs/img/boton-guia.png" width="282" alt="Installation guide"></a></p>
+<p align="center"><a href="https://github.com/megavip2012/WA-audio-stickers/releases"><b>Download / Releases</b></a> · <a href="#installation"><b>Installation guide</b></a></p>
 
 > **Disclaimer:** This is an unofficial personal project and is not affiliated with WhatsApp or Meta. It relies on internal WhatsApp Web features that may change, and audio stickers are a feature WhatsApp is rolling out/testing. Use at your own risk.
 
