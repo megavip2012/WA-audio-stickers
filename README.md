@@ -6,9 +6,7 @@
 
 <p align="center"><a href="https://github.com/Shirtep/WA-audio-stickers/releases/latest/download/stickers-con-sonido.zip"><img src="docs/img/boton-descargar.png" width="352" alt="Descargar gratis (ZIP para Chrome, Edge o Brave)"></a></p>
 
-<p align="center"><a href="#instalación"><img src="docs/img/boton-guia.png" width="282" alt="Guía de instalación"></a> <a href="https://ko-fi.com/shirtep"><img src="docs/img/boton-apoyar.png" width="282" alt="Apoyar en Ko-fi"></a></p>
-
-<p align="center"><sub>Gratis y sin fines de lucro. Las donaciones son voluntarias.</sub></p>
+<p align="center"><a href="#instalación"><img src="docs/img/boton-guia.png" width="282" alt="Guía de instalación"></a></p>
 
 > **Aviso:** proyecto personal, **no oficial**, sin relación con WhatsApp ni con Meta. Usa funciones internas de WhatsApp Web que pueden cambiar en cualquier momento, y activa en tu navegador la función de stickers con sonido, que WhatsApp está probando. Úsalo bajo tu propia responsabilidad.
 
@@ -36,7 +34,9 @@ No hay que ejecutar ningún programa: se carga la carpeta de la extensión en el
 
 Las capturas son de Brave. En Chrome y Edge se ve igual, con otros colores.
 
-**Actualizar:** descarga el ZIP de la nueva versión y reemplaza el contenido de la carpeta `stickers-con-sonido` con el nuevo. Después pulsa el botón de recargar (↻) de la extensión en la página de extensiones. Tus ajustes se conservan.
+**Idioma:** escolha um idioma no seletor do painel. A interface é atualizada imediatamente, sem recarregar o WhatsApp Web, e a preferência fica salva.
+
+**Atualizar:** baixe o ZIP da nova versão e substitua o conteúdo da pasta `stickers-con-sonido`. Depois clique em recarregar (↻) na página de extensões. Seus ajustes são preservados.
 
 **Desinstalar:** pulsa **Quitar** en la página de extensiones y borra la carpeta.
 
